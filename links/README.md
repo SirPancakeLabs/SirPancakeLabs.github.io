@@ -7,3 +7,5 @@
 [Second YT](/links/yt2/)
 
 [Linux YT](/links/yt3/)
+
+[Modrinth](/links/modrinth/)
