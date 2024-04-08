@@ -1,4 +1,5 @@
-# Links
+![icon](https://i.ibb.co/7zfYP6J/SP-Labs.png) # Links
+
 [Main YT](/links/yt/)
 
 [Second YT](/links/yt2/)
