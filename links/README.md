@@ -1,4 +1,4 @@
-![icon](https://i.ibb.co/nsZs51n/SP-Links.png) 
+# 
 # _Links_
 
 [**Main YT**](/links/yt/)
@@ -16,6 +16,7 @@
 [**Spotify**](/links/spotify/)
 
 [**Music Playlist**](/links/playlist/)
+#
 
 
-© 2024 A53o All Rights Reserved
+
