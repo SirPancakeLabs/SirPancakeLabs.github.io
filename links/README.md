@@ -1,17 +1,21 @@
-![icon](https://i.ibb.co/7zfYP6J/SP-Labs.png) # Links
+![icon](https://i.ibb.co/nsZs51n/SP-Links.png) 
+# _Links_
 
-[Main YT](/links/yt/)
+[**Main YT**](/links/yt/)
 
-[Second YT](/links/yt2/)
+[**Second YT**](/links/yt2/)
 
-[Linux YT](/links/yt3/)
+[**Linux YT**](/links/yt3/)
 
-[Modrinth](/links/modrinth/)
+[**Modrinth**](/links/modrinth/)
 
-[GitHub](/links/github/)
+[**GitHub**](/links/github/)
 
-[SpigotMC](/links/spigot/)
+[**SpigotMC**](/links/spigot/)
 
-[Spotify](/links/spotify/)
+[**Spotify**](/links/spotify/)
 
-[Music Playlist](/links/playlist/)
+[**Music Playlist**](/links/playlist/)
+
+
+© 2024 A53o All Rights Reserved
