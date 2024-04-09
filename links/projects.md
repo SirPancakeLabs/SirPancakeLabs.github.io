@@ -1,8 +1,18 @@
-# _Github Projects_
+# _Projects_
 
-[**Slash Lobby Spigot**](https://github.com/A53o/Slash-Lobby-Spigot)
+[**Slash Lobby Spigot (Plugin | Githuib)**](https://github.com/A53o/Slash-Lobby-Spigot)
 
-[**A53o.github.io**](https://github.com/A53o/A53o.github.io)
+[**Slash Lobby Spigot (Plugin | Modrinth)**](https://modrinth.com/plugin/slash-lobby-spigot)
 
-[**SirPancakeLabs.github.io**](https://github.com/SirPancakeLabs/SirPancakeLabs.github.io)
+[**Slash Lobby Spigot (Plugin | SpigotMC)**](https://www.spigotmc.org/resources/slash-lobby-spigot.115039/)
+
+[**Bedwars Ready (Modpack | Modrinth)**](https://modrinth.com/modpack/bedwars-ready)
+
+[**Potato Update (Modpack | Modrinth)**](https://modrinth.com/modpack/potato-update)
+
+[**A53o.github.io (Website | Github)**](https://github.com/A53o/A53o.github.io)
+
+[**SirPancakeLabs.github.io (Website | Github)**](https://github.com/SirPancakeLabs/SirPancakeLabs.github.io)
+
+
 
