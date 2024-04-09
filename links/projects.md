@@ -10,7 +10,7 @@
 
 [**Potato Update Modpack (Modrinth)**](https://modrinth.com/modpack/potato-update)
 
-[**A53o.github.io (Github)**](https://github.com/A53o/A53o.github.io)
+[**A53o.github.io Website (Github)**](https://github.com/A53o/A53o.github.io)
 
-[**SirPancakeLabs.github.io (Github)**](https://github.com/SirPancakeLabs/SirPancakeLabs.github.io)
+[**SirPancakeLabs.github.io Website (Github)**](https://github.com/SirPancakeLabs/SirPancakeLabs.github.io)
 
