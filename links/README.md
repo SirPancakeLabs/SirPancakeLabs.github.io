@@ -16,3 +16,5 @@
 [**Spotify**](/links/spotify/)
 
 [**Music Playlist**](/links/playlist/)
+
+[**Subscribe**](/links/subscribe/)
