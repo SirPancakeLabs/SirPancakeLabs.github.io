@@ -13,7 +13,7 @@
 
 [**GitHub**](/links/github/)
 
-[**Github Projects**](/links/github/projects)
+[**Projects**](/links/projects)
 
 [**SpigotMC**](/links/spigot/)
 
