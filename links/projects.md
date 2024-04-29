@@ -14,3 +14,5 @@
 
 [**SirPancakeLabs.github.io Website (Github)**](https://github.com/SirPancakeLabs/SirPancakeLabs.github.io)
 
+[**Learning HTML Website**](https://a53o.github.io/learning-html)
+
