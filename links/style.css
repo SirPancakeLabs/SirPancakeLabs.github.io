@@ -1,0 +1,108 @@
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+body {
+    background-color: #000000;
+    display: grid;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.header {
+    display: flex;
+    justify-content: right;
+    padding-bottom: 3rem;
+    color: #000000;
+}
+.content {
+    filter: blur(6);
+    padding: 0.75rem;
+    border-radius: 100rem;
+    background-color: #f0f0f0;
+    width: 1.1rem;
+    height: 1.1rem;
+    text-align: center;
+    position: fixed;
+    top: 0;
+}
+
+.pfp img{
+    display: flex;
+    border-radius: 100rem;
+    border: 2px solid #ffffff;
+    height: 6rem;
+    width: 6rem;
+    margin: 2rem;
+}
+
+.pfp {
+    display: flex;
+    justify-content: center;
+}
+
+.at {
+    font-weight: 700;
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+.tags {
+    color: #959595;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.links {
+    background-color: #222222;
+    padding: 0.9rem;
+    width: 80%;
+    max-width: 500px;
+    font-size: 1.4rem;
+    color: #ffffff;
+    border-radius: 1.2rem;
+    animation: nohover 0.5s;
+    scale: 100%;
+}
+
+@keyframes hover {
+    from {scale: 100%;}
+    to {scale: 105%;}
+}
+
+@keyframes nohover {
+    from {scale: 105%;}
+    to {scale: 100%;}
+}
+
+.links:hover {
+    animation: hover 0.5s;
+    scale: 105%;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 1rem;
+}
+
+.container {  display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    gap: 16px 16px;
+    grid-auto-flow: row;
+    justify-items: center;
+    grid-template-areas:
+      "."
+      "."
+      "."
+      "."
+      ".";
+    width: 100%;
+    height: fit-content;
+  }
+  
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+}
