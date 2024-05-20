@@ -1,6 +1,0 @@
-title: SP LINKS
-description: SP Links is just a thing that I use for making my own shortened links, and so this page will be updated alot.
-show_downloads: false
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
