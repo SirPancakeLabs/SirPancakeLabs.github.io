@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     particleground(document.getElementById('animations'), {
         dotColor: '#fff',
-        lineColor: '#fff'
+        lineColor: '#535353'
     });
     var intro = document.getElementById('main_body');
     intro.style.marginTop = -intro.offsetHeight / 2 + 'px';
